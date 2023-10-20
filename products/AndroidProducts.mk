@@ -49,6 +49,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/porsche/aospa_porsche.mk \
     $(LOCAL_DIR)/psyche/aospa_psyche.mk \
     $(LOCAL_DIR)/raven/aospa_raven.mk \
+    $(LOCAL_DIR)/RMX2020/aospa_RMX2020.mk \
     $(LOCAL_DIR)/sky/aospa_sky.mk \
     $(LOCAL_DIR)/spes/aospa_spes.mk \
     $(LOCAL_DIR)/sunny/aospa_sunny.mk \
@@ -93,6 +94,7 @@ COMMON_LUNCH_CHOICES += \
     aospa_porsche-userdebug \
     aospa_psyche-userdebug \
     aospa_raven-userdebug \
+    aospa_RMX2020-userdebug \
     aospa_sky-userdebug \
     aospa_spes-userdebug \
     aospa_sunny-userdebug \
